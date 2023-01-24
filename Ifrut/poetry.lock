@@ -1,0 +1,17 @@
+[[package]]
+name = "django-usuario"
+version = "0.4"
+description = "Extension to model User."
+category = "main"
+optional = false
+python-versions = "*"
+
+[metadata]
+lock-version = "1.1"
+python-versions = "^3.8"
+content-hash = "dfd3d6992da087764c4c5c5428dbde985e986fcd322b641a04c68cf611c1548b"
+
+[metadata.files]
+django-usuario = [
+    {file = "django-usuario-0.4.tar.gz", hash = "sha256:024f531c031b08bb0d8a755e7c6a777286c5f0f9a096b51c5cf4c0fc32e7894f"},
+]
