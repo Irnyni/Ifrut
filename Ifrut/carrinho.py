@@ -9,7 +9,7 @@ from conexao import Conexao
 from cliente import pessoa
 from produtos import produto
 from vendedor import vendedor
-import usuario
+
 
 def pesquisar(id):
           id=str(id)
